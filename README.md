@@ -1,4 +1,8 @@
 Amazon.com Clone
+
+visit here
+https://sharmahardik606.github.io/amazonclonesharmahardik606.github.io/
+
 Welcome to the Amazon.com Clone project! This repository contains the source code for a web application that mimics the design of the Amazon.com website using HTML and CSS.
 
 Features:
