@@ -231,7 +231,7 @@ button{
 
 
 #hero1{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/hero_image2.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/hero_image2.jpg");
     background-size:120%;
     height: 400px;
     /* position: absolute;
@@ -302,7 +302,7 @@ a{
 }
 
 .cloth-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box1_image.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/box1_image.jpg");
     display: flex;
     justify-content:center;
     background-size: cover;
@@ -323,7 +323,7 @@ h3{
 }
 
 .home-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box3_image.jpg");
+    background-image: url("/Amazon%20Clone%20(Resources)/box3_image.jpg");
     display: flex;
     justify-content:center;
     background-size: cover;
@@ -332,7 +332,7 @@ h3{
 }
 
 .men-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box2_image.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/box2_image.jpg");
     display: flex;
     justify-content:center;
     background-size: cover;
@@ -341,7 +341,7 @@ h3{
 }
 
 .phone-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box4_image.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/box4_image.jpg");
     display: flex;
     justify-content:center;
     background-size: cover;
@@ -350,16 +350,15 @@ h3{
 }
 
 .pc-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box9_image.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/box9_image.jpg");
     display: flex;
     justify-content:center;
-    background-size: cover;
     height: 70%;
     width: 85%;
 }
 
 .beauty-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box5_image.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/box5_image.jpg");
     display: flex;
     justify-content:center;
     background-size: cover;
@@ -368,7 +367,7 @@ h3{
 }
 
 .toys-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box7_image.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/box7_image.jpg");
     display: flex;
     justify-content:center;
     background-size: cover;
@@ -377,7 +376,7 @@ h3{
 }
 
 .fashion-img{
-    background-image:url("/Amazon\ Clone\ \(Resources\)/box8_image.jpg");
+    background-image:url("/Amazon%20Clone%20(Resources)/box8_image.jpg");
     display: flex;
     justify-content:center;
     background-size: cover;
